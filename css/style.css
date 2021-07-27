@@ -1,0 +1,9 @@
+/* goole fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+/* common style */
+h1,h2,h3,h4{
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
